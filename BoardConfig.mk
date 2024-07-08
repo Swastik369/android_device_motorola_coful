@@ -17,7 +17,7 @@ PRODUCT_PLATFORM := mt6768
 include device/motorola/mt6768-common/PlatformConfig.mk
 
 # Bootloader Name
-TARGET_BOOTLOADER_BOARD_NAME := cofud
+TARGET_BOOTLOADER_BOARD_NAME := coful
 
 # Partition Information
 BOARD_SUPER_PARTITION_SIZE := 11811160064
